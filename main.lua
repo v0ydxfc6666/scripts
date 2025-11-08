@@ -854,7 +854,7 @@ end
 local autoJsonFolder = mainFolder .. "/json_automatic"
 if not isfolder(autoJsonFolder) then makefolder(autoJsonFolder) end
 
-local automaticJsonURL = "NONE"
+local automaticJsonURL = "https://raw.githubusercontent.com/v0ydxfc6666/v0ydffx/refs/heads/main/CFRAME/ALLDATAMAPS/AUTOMATIC/MT_CIELO/merged_223447.json"
 local automaticJsonFile = "automatic_full.json"
 
 local autoPlaybackSpeed = 1.0
