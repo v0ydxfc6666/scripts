@@ -262,7 +262,7 @@ end
 routes = {
     {
         name = "BASE → CP8",
-        url = "https://raw.githubusercontent.com/v0ydxfc6666/v0ydffx/refs/heads/main/CFRAME/ALLDATAMAPS/AUTOMATIC/MT_CIELO/merged_223447.json",
+        url = "https://raw.githubusercontent.com/v0ydxfc6666/json/refs/heads/main/merged_183935.json",
         data = nil
     },
 }
