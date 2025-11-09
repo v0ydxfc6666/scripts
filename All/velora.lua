@@ -31,7 +31,7 @@ player.CharacterAdded:Connect(refreshHRP)
 -- ASTRION JSON STRUCTURE VARIABLES
 -- ============================================================
 local mainFolder = "ASTRIONHUB"
-local jsonFolder = mainFolder .. "/json_routes"
+local jsonFolder = mainFolder .. "/VELORAjson_routes"
 if not isfolder(mainFolder) then makefolder(mainFolder) end
 if not isfolder(jsonFolder) then makefolder(jsonFolder) end
 
